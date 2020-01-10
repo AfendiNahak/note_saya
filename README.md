@@ -1,6 +1,6 @@
 # note_saya
 
-A Flutter application for final Exam of Mobile Framework Class.
+A Flutter application for the Final Examination of Mobile Framework Class.
 
 ## Getting Started
 
